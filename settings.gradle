@@ -1,0 +1,2 @@
+rootProject.name='U5_Activity_Intent_RecyclerView'
+include ':app'
